@@ -1,0 +1,6 @@
+Given 2 different Arrays of Strings of equal lengths.
+
+Compare each element(same index) of 2 arrays with each other AND Find Minimum No of Manipulations (Without Deletions) required to make 2 strings anagrams of each other !
+
+
+In case, the length of 2 strings is different, Obviously They cant be the anagrams of each other, as deletion is NOT allowed.
